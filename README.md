@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @experiancemanganyi
 - 👀 I’m interested in coding neural networks.
-- 🌱 I’m currently learning Computer System Engienering and also ServiceNow Application Development.
+- 🌱 I’m currently studying Dip.Computer System Engienering & ServiceNow Application Development.
 - 💞️ I’m looking to collaborate on many technology and coding projects.
 - 📫 You can find me on my email experiancemanganyi@gmail.com.
 - ⚡ Fun fact: coding is fun!!!!
